@@ -1,0 +1,33 @@
+h2{
+    text-align: center;
+}
+
+.header{
+    background-color: chartreuse;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    margin: 0px;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border: 2px solid#000000;
+    border-radius: 20px;
+    margin: 30px;
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+h1{
+    font-weight: bold;
+    color: violet;
+}
+
+
